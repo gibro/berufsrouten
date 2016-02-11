@@ -11,7 +11,7 @@ Besonders wichtig ist, das die Bewältigung der Aufgabe beim Cache Handwerk auf 
 Jede Gruppe startet an einer anderen Station. Das Ende sollte wieder im Seminarraum sein. Das heißt der Teamende muss den Teilnehmenden sagen, dass sie nach der 5. Station, welche das auch immer für sie ist, weil ja jede Gruppe an einer anderen Station geinnt, in den Seminarraum zurückkommen sollen. Dort werden sie von den Referenten erwartet. Alle Gruppen sollen ihre Fotos und sonstigen mitgebrachten Ergebnisse in einer Abschlusspräsentation vorstellen, siehe auch unten: 6. Final.
 
 #Technisches für Referenten
-# App um per Koordinaten von A nach B zu kommen heißt Google Maps. Die koordinaten müssen in der Form 51° 22.890, 007°09.622 eingegeben werden</li>
+* App um per Koordinaten von A nach B zu kommen heißt Google Maps. Die koordinaten müssen in der Form 51° 22.890, 007°09.622 eingegeben werden
 * QR-Codes Scannen mit barcoo (<a href="https://play.google.com/store/apps/details?id=de.barcoo.android&amp;hl=de">Android</a>, <a href="https://itunes.apple.com/de/app/barcoo-barcode-reader-qr-scanner/id339525465?mt=8">iOS</a>), Koordinaten bei GoogleMaps  (<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.maps&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm1hcHMiXQ..">Android</a>, <a href="https://itunes.apple.com/de/app/google-maps/id585027354?mt=8">iOS</a>) einfügen und finden
 * QR Codes können über das Tool QR Code Generator erstellt werden: <a href=""http://www.qrcode-generator.de/">http://www.qrcode-generator.de/</a>
 
